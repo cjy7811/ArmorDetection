@@ -1,0 +1,3 @@
+/home/cjy/ArmorDetection/build/CMakeFiles/rebuild_cache.dir
+/home/cjy/ArmorDetection/build/CMakeFiles/edit_cache.dir
+/home/cjy/ArmorDetection/build/CMakeFiles/armor_detection.dir
