@@ -19,16 +19,8 @@ chrono
 /home/cjy/ArmorDetection/src/main.cpp
 iostream
 -
-unistd.h
--
-limits.h
--
 utils.h
 /home/cjy/ArmorDetection/src/utils.h
-sys/stat.h
--
-errno.h
--
 
 /usr/local/opencv4.5.4/include/opencv4/opencv2/calib3d.hpp
 opencv2/core.hpp
